@@ -1,4 +1,4 @@
-<embed src="[https://github.com/nicoolesy/Lexical-Semantic-Change-Detection/blob/main/Final_poster-copy.pdf](https://github.com/nicoolesy/Lexical-Semantic-Change-Detection/blob/main/Final_poster-copy.pdf)" width="100%" height="600px" type="application/pdf">
+<embed src="[https://github.com/nicoolesy/Lexical-Semantic-Change-Detection/blob/main/Final_submission.pdf](https://github.com/nicoolesy/Lexical-Semantic-Change-Detection/blob/main/Final_submission.pdf)" width="100%" height="600px" type="application/pdf">
 
 # Lexical Semantic Change Detection
 **Authors:** Nicole Chen, Tammy Yang, Tzu-Yu Ko  
