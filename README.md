@@ -1,4 +1,5 @@
-[![Lexical Semantic Change Detection Poster](poster_thumbnail.png)](https://github.com/nicoolesy/nicoolesy-SI671_Lexical-Semantic-Change-Detection/blob/main/671_final_poster-copy.pdf)# Lexical Semantic Change Detection
+[![Lexical Semantic Change Detection Poster](poster_thumbnail.png)](https://github.com/nicoolesy/nicoolesy-SI671_Lexical-Semantic-Change-Detection/blob/main/671_final_poster-copy.pdf)
+# Lexical Semantic Change Detection
 **Authors:** Nicole Chen, Tammy Yang, Tzu-Yu Ko  
 **Affiliation:** University of Michigan  
 
